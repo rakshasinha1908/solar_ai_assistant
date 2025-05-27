@@ -147,9 +147,4 @@ Example: ₹1,00,000 cost ÷ ₹1,500/month = \~66 months (\~5.5 years payback)
 * [OpenRouter](https://openrouter.ai)
 * [Hugging Face Spaces](https://huggingface.co/spaces)
 
-```
 
----
-
-
-```
