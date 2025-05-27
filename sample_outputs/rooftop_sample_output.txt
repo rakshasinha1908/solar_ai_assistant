@@ -1,0 +1,51 @@
+🔆 Solar Industry AI Assistant
+Upload a satellite image of a rooftop and describe it to assess solar installation potential.
+
+Upload Satellite Rooftop Image
+
+rooftop_sample.jpg
+Drag and drop file here
+Limit 200MB per file • JPG, JPEG, PNG
+rooftop_sample.jpg
+141.8KB
+
+Uploaded Rooftop Image
+
+📝 Describe Your Rooftop
+Provide details like size (in sq. meters), location, shade, sunlight hours, obstructions, orientation, etc.
+
+Flat concrete rooftop, approx. 100 sq. meters, located in Delhi, India. South-facing orientation. Receives 6-7 hours of direct sunlight per day. No tall buildings nearby. Minor obstructions include a water tank and a small satellite dish on one side. Roof is easily accessible.
+
+✅ Analysis Complete
+
+Solar Installation Report
+Based on the rooftop details provided, here is the structured solar panel installation advice:
+
+Estimated usable area: With a rooftop area of 100 sq. meters and minor obstructions, the estimated usable area for solar panel installation would be around 85-90 sq. meters.
+
+Suggested number of solar panels: Depending on the panel wattage and efficiency, you could fit approximately 25-30 solar panels on the available area.
+
+Expected monthly energy output: Considering the sunlight hours and system efficiency, the system could produce around 400-500 kWh per month.
+
+Approximate installation cost: The installation cost can vary depending on panel quality, system size, and installation complexity, but a rough estimate would be around INR 3-4 lakhs.
+
+Expected ROI/payback period: With the savings on electricity bills and potential incentives, the payback period could be around 4-5 years.
+
+Recommended solar panel type: For better efficiency in limited space, monocrystalline panels are recommended.
+
+Maintenance advice:
+
+Cleaning frequency: Solar panels should be cleaned every 6-12 months to ensure optimal performance.
+Warranty: Check for warranties on panels (typically 20-25 years) and inverters (10-15 years) for maintenance needs.
+Government incentives/net metering policies for India:
+
+Delhi offers various incentives such as subsidies, net metering, and tax benefits for residential solar installations. The current net metering policy allows for surplus energy to be fed back to the grid.
+Confidence level of the estimate: Medium. Assumptions include average panel efficiency, general cost estimates, and typical sunlight hours in Delhi. Actual figures may vary based on specific factors and market conditions. It's advisable to consult with local installers for a detailed assessment.
+
+📊 View Performance Metrics
+
+Avg. AI Response Time: 3–5 seconds
+Uptime: 100% (for local use or if hosted on Hugging Face)
+Max Upload: 5MB images
+API Provider: OpenRouter
+Cost: Free (under OpenRouter API trial)
