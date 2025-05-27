@@ -3,7 +3,6 @@
 
 ## ✅ Final `README.md` for Your Project
 
-````markdown
 # 🔆 Solar Industry AI Assistant
 
 An AI-powered rooftop analysis tool that helps homeowners and solar professionals evaluate rooftop solar potential using uploaded satellite imagery and descriptive inputs. Built using Streamlit and OpenRouter (GPT-3.5).
